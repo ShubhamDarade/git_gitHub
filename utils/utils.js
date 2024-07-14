@@ -1,2 +1,1 @@
-add function
-    a+b
+const abc = "shubham";
