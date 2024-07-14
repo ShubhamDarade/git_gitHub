@@ -11,3 +11,8 @@ function newFeatureAdd() {
     console.log("new feature");
     console.log("one more new feature");
 }
+
+function newFeatureAddB() {
+    console.log("new feature");
+    console.log("one more new feature");
+}
